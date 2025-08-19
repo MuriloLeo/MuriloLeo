@@ -1,6 +1,12 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
+   <p>
+    Atualmente trabalho como Estagiário de Preços e Incentivos na John Deere. Minhas principais tarefas consiste em automatizar tarefas repetitivas usando Python, Power BI e SQL e melhorar processos internos.
+   </p>
+</div>
+
+ <div>
    <a href="https://github.com/MuriloLeo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloLeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloLeo&layout=compact&langs_count=6&theme=dark"/>
