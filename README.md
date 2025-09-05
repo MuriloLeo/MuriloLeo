@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Murilo Leonardo!
+**Olá, eu sou o Murilo Leonardo!**
 
 💻 Estagiário de Preços e Incentivos na John Deere
 🚀 Apaixonado por desenvolvimento, automação e criação de soluções inteligentes.
